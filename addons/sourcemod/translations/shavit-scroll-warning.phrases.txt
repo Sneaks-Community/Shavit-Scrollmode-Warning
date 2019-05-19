@@ -1,0 +1,7 @@
+"Phrases"
+{
+	"Scroll Warning"
+	{
+		"en"		"{darkred}Using a scroll macro or an infinite/hyperscrolling mouse wheel on this mode is considered cheating, and will get you banned."
+	}
+}
