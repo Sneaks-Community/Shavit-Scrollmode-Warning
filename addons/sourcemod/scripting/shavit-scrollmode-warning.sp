@@ -13,7 +13,7 @@ public Plugin myinfo =
     name = "Scroll Style Enforcement Warning",
     author = ".sneaK",
     description = "Warns players about macro/hyperscrolling scroll modes",
-    version = "1.0",
+    version = "1.1",
     url = "https://snksrv.com"
 }
 
