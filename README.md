@@ -1,7 +1,7 @@
 # Shavit Scrollmode Warning
 Plugin for [Shavit's Bhoptimer](https://github.com/shavitush/bhoptimer) that warns users when changing to a scroll mode.
 
-![Example Image](https://share.snksrv.com/i/hSrjla.png)
+![Example Image](https://share.snksrv.com/i/PfFC10.png)
 
 Translations included for customizable warn messages, PR's for other languages welcome!
 
