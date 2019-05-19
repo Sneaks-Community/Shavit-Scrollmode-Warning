@@ -4,6 +4,7 @@
 	{
 		"#format"	"{1:s}"
 		"en"		"{1}Using a scroll macro or an infinite/hyperscrolling mouse wheel on this mode is considered cheating, and will get you banned."
+		"es"		"{1}El uso de macros de desplazamiento o abuso de rueda de ratón / hyperscrolling en este modo se considera trampa y esta castigado con ban."
 		"he"		"{1}שימוש במאקרו/סקריפט/גלגלת משוחררת בסטייל הזה נחשב לרמאות, וכתוצאה מכך תושעה משרת המשחק."
 		"pl"		"{1}Używanie makr, hyperscrolla na tym stylu jest uznawane jako korzystanie ze wspomagaczy i może skutkować blokadą."
 		"tr"		"{1}Bu oyun modunda scroll makrosu veya sonsuz çevirme özellikli fare kullanmak hile olarak kabul edilir ve sunucudan yasaklanmanıza sebep olur."
