@@ -10,5 +10,6 @@
 		"pt"		"{1}Usar um macro de scroll ou um scroll infinito/hyperscroll nesse modo é considerado trapaça e você será banido."
 		"tr"		"{1}Bu oyun modunda scroll makrosu veya sonsuz çevirme özellikli fare kullanmak hile olarak kabul edilir ve sunucudan yasaklanmanıza sebep olur."
 		"no"		"{1}Å bruke en scrollmakro eller et uendelig-/hyperscrollende musehjul på denne modusen regnes som juks, og vil få deg bannlyst."
+		"chi"		"{1}在该模式下使用 连跳脚本 或 无阻滚轮 会被视为作弊并且会遭到封禁."
 	}
 }
