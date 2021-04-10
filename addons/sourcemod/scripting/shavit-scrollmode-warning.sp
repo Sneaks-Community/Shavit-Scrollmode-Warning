@@ -5,7 +5,6 @@
 
 #define USES_CHAT_COLORS
 
-stylesettings_t gA_StyleSettings[STYLE_LIMIT];
 chatstrings_t gS_ChatStrings;
 
 public Plugin myinfo = 
@@ -29,9 +28,9 @@ public void Shavit_OnChatConfigLoaded()
 
 public void Shavit_OnStyleChanged(int client, int oldstyle, int newstyle, int track, bool manual)
 {
-	Shavit_GetStyleSettings(newstyle, gA_StyleSettings[newstyle]);
+	bool bAutoBhop = Shavit_GetStyleSettingBool(Shavit_GetBhopStyle(client), "autobhop");
 	
-	if (!gA_StyleSettings[newstyle].bAutobhop)
+	if (!bAutoBhop)
 	{
 		if (IsClientConnected(client) && IsClientInGame(client))
 		{
