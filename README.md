@@ -6,7 +6,7 @@ Plugin for [Shavit's Bhoptimer](https://github.com/shavitush/bhoptimer) that war
 Translations included for customizable warn messages, PR's for other languages welcome!
 
 # Compilation Dependencies
-Compilation dependencies may update at any time, so I will not include them in this repo. Always be sure to have the latest includes.  
+Compilation dependencies may update at any time, so they will not be included in this repo. Always be sure to have the latest includes.  
 
 [Shavit's Bhoptimer](https://github.com/shavitush/bhoptimer)  
 
